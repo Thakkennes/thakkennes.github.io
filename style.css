@@ -17,8 +17,9 @@
 	padding-left:60px;
 }
 #menu {
+	padding:20px;
 	float:right;
-	font-size:25px;
+	font-size:18px;
 }
 #menu ul {
 	list-style-type:none;
@@ -28,7 +29,7 @@
 	margin-right:5px;
 }
 #menu ul li a {
-	text-decoration:underline;
+	text-decoration:none;
 	color:black;
 }
 #menu ul li a:hover {
@@ -47,6 +48,12 @@
 	float:left;
 }
 
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
 /*  
 Sticky Footer Solution
 by Steve Hatcher 

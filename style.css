@@ -10,12 +10,12 @@
 .kop {
 	font-size:50px;
 	font-family: 'Exo 2', sans-serif;
-	margin-left:50px;
+	padding-left:50px;
 }
 .subkop {
 	font-size:30px;
 	font-family: 'Exo 2', sans-serif;
-	margin-left:40px;
+	padding-left:40px;
 }
 #footer {
 	width:100%;

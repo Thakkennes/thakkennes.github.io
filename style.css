@@ -16,18 +16,22 @@
 	font-size:30px;
 	padding-left:60px;
 }
-#header ul {
+#menu {
+	float:right;
+	font-size:25px;
+}
+#menu ul {
 	list-style-type:none;
 }
-#header ul li {
+#menu ul li {
 	display:inline;
 	margin-right:5px;
 }
-#header ul li a {
+#menu ul li a {
 	text-decoration:underline;
 	color:black;
 }
-#header ul li a:hover {
+#menu ul li a:hover {
 	color:#800000;
 }
 #footer {

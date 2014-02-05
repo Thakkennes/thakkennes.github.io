@@ -1,7 +1,10 @@
 #footer {
 	width:100%;
-	border-top:2px #800000 solid;
+	border-top:4px #800000 solid;
 	background-color:#FFFAF0;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
 }
 .leftfoot {
 	float:left;
@@ -31,13 +34,13 @@ html, body {
 
 #main {
 	overflow:auto;
-	padding-bottom: 180px; /* must be same height as the footer */
+	padding-bottom: 80px; /* must be same height as the footer */
 }  
 
 #footer {
 	position: relative;
-	margin-top: -180px; /* negative value of footer height */
-	height: 180px;
+	margin-top: -80px; /* negative value of footer height */
+	height: 80px;
 	clear:both;
 } 
 

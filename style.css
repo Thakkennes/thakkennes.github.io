@@ -6,16 +6,25 @@
 	padding:20px;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
+	font-family: 'Exo 2', sans-serif;
 }
 .kop {
 	font-size:50px;
-	font-family: 'Exo 2', sans-serif;
 	padding-left:60px;
 }
 .subkop {
 	font-size:30px;
-	font-family: 'Exo 2', sans-serif;
 	padding-left:60px;
+}
+#menu ul {
+	list-style-type:none;
+}
+#menu ul li {
+	display:inline;
+	margin-right:5px;
+}
+#menu ul li a:hover {
+	color:#800000;
 }
 #footer {
 	width:100%;
@@ -24,6 +33,7 @@
 	padding:12px;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
+	font-family: 'Exo 2', sans-serif;
 }
 .leftfoot {
 	float:left;

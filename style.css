@@ -48,13 +48,7 @@
 	float:left;
 }
 
-@import url(http://weloveiconfonts.com/api/?family=fontawesome);
-
-/* fontawesome */
-[class*="fontawesome-"]:before {
-  font-family: 'FontAwesome', sans-serif;
-}
-/*  
+/*
 Sticky Footer Solution
 by Steve Hatcher 
 http://stever.ca

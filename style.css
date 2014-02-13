@@ -36,6 +36,11 @@
 #menu ul li a:hover {
 	color:#800000;
 }
+#links {
+	float:center;
+	font-size:30px;
+	
+}
 #opdracht {
 	text-align:center;
 	width:100%;

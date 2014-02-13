@@ -37,7 +37,8 @@
 	color:#800000;
 }
 #links {
-	text-align:center;
+	text-align:left;
+	padding-left:30px;
 	width:100%;
 	font-size:25px;
 }

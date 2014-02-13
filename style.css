@@ -41,8 +41,11 @@
 	width:100%;
 	font-size:30px;
 }
-ul#links {
-	list-style-type:circle;
+#links a {
+	text-decoration:none;
+}
+#links a:hover {
+	text-decoration:underline;
 }
 #opdracht {
 	text-align:center;

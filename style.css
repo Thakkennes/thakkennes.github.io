@@ -41,6 +41,9 @@
 	width:100%;
 	font-size:30px;
 }
+ul#links {
+	list-style-type:circle;
+}
 #opdracht {
 	text-align:center;
 	width:100%;

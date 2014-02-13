@@ -38,9 +38,10 @@
 }
 #links {
 	text-align:left;
-	padding-left:30px;
+	padding-left:90px;
 	width:100%;
 	font-size:25px;
+	font-family: 'Exo 2', sans-serif;
 }
 #links a {
 	text-decoration:none;
@@ -53,6 +54,7 @@
 #opdracht {
 	text-align:center;
 	width:100%;
+	font-family: 'Exo 2', sans-serif;
 }
 .titel {
 	font-size:40px;

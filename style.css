@@ -36,6 +36,14 @@
 #menu ul li a:hover {
 	color:#800000;
 }
+.titel {
+	font-size:30px;
+	float:center;
+}
+.uitwerking {
+	height:877px;
+	width:620px;
+}
 #footer {
 	width:100%;
 	border-top:4px #800000 solid;
@@ -49,7 +57,6 @@
 	float:left;
 	padding-left:60px;
 }
-
 /*
 Sticky Footer Solution
 by Steve Hatcher 
